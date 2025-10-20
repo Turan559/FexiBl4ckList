@@ -25,3 +25,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ascca.gov.az
 
 0.0.0.0 empro.az
+
+0.0.0.0 cert.gov.az
+
+0.0.0.0 scis.gov.az
