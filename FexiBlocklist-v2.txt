@@ -29,3 +29,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 cert.gov.az
 
 0.0.0.0 scis.gov.az
+
+0.0.0.0 192.168.0.1
